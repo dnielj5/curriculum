@@ -1,0 +1,41 @@
+h2{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: black;
+}
+header{
+    font-family: "Roboto Slab", serif;
+    font: 21px;
+}
+p{
+    color:darkgray;
+}
+li{
+    color:royalblue;
+}
+h4{
+    color:darkgrey;
+}
+h1{
+    color:black;
+}
+li{
+    color: black;
+}
+.secciones{
+    margin: 10px;
+    color: darkgrey;
+    background-color: darkgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: x-large;
+    border:solid 4px black;
+}
+main{
+    display flex;
+}
+#academia{
+    background-size: contain;
+    background-image: ;
+}
